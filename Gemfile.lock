@@ -45,6 +45,7 @@ GEM
     coffee-script-source (1.6.3)
     diff-lcs (1.2.5)
     erubis (2.7.0)
+    excon (0.25.1)
     execjs (2.0.2)
     ffi (1.9.3)
     hike (1.2.3)
@@ -148,6 +149,7 @@ PLATFORMS
 DEPENDENCIES
   capybara (= 2.1.0)
   coffee-rails (= 4.0.1)
+  excon (= 0.25.1)
   jbuilder (= 1.0.2)
   jquery-rails (= 3.0.4)
   pg (= 0.15.1)
